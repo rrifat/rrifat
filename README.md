@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rifat Alam 👦🏿</h1>
-<h1 align="center">👨🏿‍💻 ☕ 🚴🏿‍</h1>
+<p align="center">👨🏿‍💻 ☕ 🚴🏿‍</p>
 
 - 🔭 I’m currently working on web technologies primarily in JavaScript, React.js, React Query etc.
 
