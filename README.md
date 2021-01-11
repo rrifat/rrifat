@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rifat Alam</h1>
+<h1 align="center">Hi there 👋</h1> <h1 align="center">I'm Rifat Alam</h1>
 
 - 🔭 I’m currently working on web technologies primarily in JavaScript, React.js, React Query etc.
 
