@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋🏿, I'm Rifat Alam 👦🏿</h1>
 <p align="center">👨🏿‍💻 ☕ 🚴🏿‍</p>
 
-- 🔭 I’m currently working on web technologies primarily in JavaScript, React.js, React Query etc
+- 🔭 I’m currently working on web technologies primarily in JavaScript (React.js)
 
 - 👯 I’m looking to collaborate on projects mainly in JavaScript and React.js
 
