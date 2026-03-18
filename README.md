@@ -1,23 +1,49 @@
-<h1 align="center">Hi there 👋🏿, I'm Rifat Alam 👦🏿</h1>
-<p align="center">👨🏿‍💻 ☕ 🚴🏿‍</p>
+### Hey, I'm Rifat 👋
 
-- 🔭 I’m currently working on web technologies primarily in JavaScript (React.js)
+Software engineer who's spent years building systems where rules
+actually matter — government eligibility flows, healthcare data
+pipelines, identity verification, and payment compliance gates.
 
-- 👯 I’m looking to collaborate on projects mainly in JavaScript and React.js
+I work mainly with **TypeScript**, **Next.js**, and **NestJS**,
+though the interesting part has always been what the software
+is enforcing, not just how it's built.
 
-- 💬 Ask me about free resources for developers
+---
 
-<!--
-**rrifat/rrifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔬 What I'm exploring right now
 
-Here are some ideas to get you started:
+I'm moving part of my work into research — specifically around
+**rules-as-code** and **automated compliance verification**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The question I keep coming back to: *how do you prove that a running
+system actually follows the law it's supposed to enforce?*
+
+My current independent project builds a deterministic verification
+engine for NSW livestock movement compliance rules (NLIS Regulation
+2017), evaluated against synthetic movement event streams.
+
+---
+
+### 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+
+---
+
+### 🌱 Interests
+
+- Compliance systems and rules-as-code
+- Digital traceability — agri-food, livestock, supply chain
+- Event-driven validation pipelines
+- RegTech and biosecurity applications
+
+---
+
+### 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rrifat)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alammdrifat@gmail.com)
