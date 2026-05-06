@@ -12,15 +12,11 @@ is enforcing, not just how it's built.
 
 ### 🔬 What I'm exploring right now
 
-I'm moving part of my work into research — specifically around
-**rules-as-code** and **automated compliance verification**.
+I'm interested in where AI and formal verification methods meet domains that have real consequences — health, biosecurity, food safety, environmental risk. The common thread: systems that need to be evaluated rigorously, not just built.
 
-The question I keep coming back to: *how do you prove that a running
-system actually follows the law it's supposed to enforce?*
+My current independent project sits in the biosecurity space. I'm building a deterministic verification engine for NSW livestock movement compliance rules (NLIS Regulation 2017), evaluated against synthetic movement event streams.
 
-My current independent project builds a deterministic verification
-engine for NSW livestock movement compliance rules (NLIS Regulation
-2017), evaluated against synthetic movement event streams.
+The question driving it: how do you prove that a running system actually follows the law it's supposed to enforce?
 
 ---
 
@@ -31,15 +27,17 @@ engine for NSW livestock movement compliance rules (NLIS Regulation
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
 
 ---
 
 ### 🌱 Interests
 
-- Compliance systems and rules-as-code
-- Digital traceability — agri-food, livestock, supply chain
-- Event-driven validation pipelines
-- RegTech and biosecurity applications
+- Applied AI and data systems for health, biological, and environmental risk domains
+- Machine learning for health outcome prediction and population-level risk stratification  
+- Automated compliance verification and rules-as-code for regulated biological data systems
+- Trustworthy, interpretable, and auditable AI — building models that can be evaluated, not just run
+- Data pipeline architecture: validation, integrity, and reproducibility in high-stakes domains
 
 ---
 
